@@ -32,3 +32,5 @@ elif user_skills == "database":
     print("your are a Database developer")
 elif user_skills == "frontend,backend,database":
     print("your a full stack developer")
+else:
+    print("Not a developer")
